@@ -1,1 +1,1 @@
-# localstorage
+Armazenando dados no navegador utilizando JavaScript.
